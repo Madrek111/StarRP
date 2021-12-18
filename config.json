@@ -1,0 +1,27 @@
+{
+    "token":"OTIxNzA5NDIzODY3NjEzMTkz.Yb22yw.G9iCyQdcR2G5dOhaxyNo8oHdN58",
+    "prefix":"!",
+    "imigrantID": "919313484557221898",
+    "obywatelID": "919313484557221898"
+    "wlCheckersList": ["919530598874382347"],
+    "instagramChannel" : "919309296657903636",
+    "iconServerURL" : "https://media.discordapp.net/attachments/918536658666786886/921709643728838656/logo_nasze.png?width=676&height=676",
+    "serverName" : "StarRP WL OFF",
+    "ipServerWithPort" : "",
+    "statusReadyDescribe" : "",
+    "statusExceptDescribe": "",
+    "reactionMessageID": "",
+    "twitterChannelID": "919309257285980200",
+    "darkwebChannelID": "919329945346531398",
+    "propozycjaChannelID": "919308887251890216",
+    "bladChannelID": "919329126924583013",
+    "otomotoChannelID": "919309343202103386",
+    "warnAdministrationList": [""],
+    "warnChannel": "919330477431726090",
+    "warnRoleID1": "",
+    "warnRoleID2": "",
+    "warnRoleID3": "",
+    "joinMessageChannelID": "",
+    "serverDiscordID": "899358830205489233",
+    "embedMsgPermissionRolesID":[""]
+}
